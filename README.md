@@ -1,4 +1,5 @@
+# Backend for Fire Alerm System
 ## Feature List ( To Be implemented )
-- [ ] authentication ( token based )
-- [ ] fire alerm ( firestore rules for real time update )
-- [ ] api service for firestation client app
+- Initial
+    - [x] authentication ( token based )
+    - [ ] fire alerm ( real time trigger push notification to firestation and surrounding neighbors )
